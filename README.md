@@ -9,9 +9,9 @@ Code Challenge for ficohsa
 
 Pasos para ejecutar el aplicativo para el servidor: 
 
-1) En la carpeta raíz ejecutar el comando cd server
-2) ejecutar el comando npm i 
-3) ejecutar el comando npm start
+1) En la carpeta raíz, ejecutar el comando "cd server"
+2) ejecutar el comando "npm i"
+3) ejecutar el comando "npm start"
 
 nota: El server se ejecuta en el puerto 3000, en el caso de que se requiera cambiar de puerto, modificar el archivo .env
 
@@ -19,8 +19,8 @@ nota: El server se ejecuta en el puerto 3000, en el caso de que se requiera camb
 ## Pasos para ejecutar el aplicativo para el cliente.
 
 1) En la carpeta raíz ejecutar el comando cd client
-2) ejecutar el comando npm i 
-3) ejecutar el comando npm start
+2) ejecutar el comando "npm i" 
+3) ejecutar el comando "npm start"
 
 
 ## Captura de pantalla de la aplicación: 
